@@ -1,1 +1,1 @@
-Hi! this is git domo for uploading and downloading files from github repo.
+Hi! this is git demo for uploading and downloading files from github repo.
